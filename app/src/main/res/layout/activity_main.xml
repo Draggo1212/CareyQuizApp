@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Who was the first black president?"
+        android:textSize="30sp"
+        android:id="@+id/questionTV"
+    />
+
+    <EditText
+        android:id="@+id/answerBOX"
+        android:layout_width="match_parent"
+        android:layout_height="115dp"
+        android:textSize="25sp"
+        android:hint="type your answer here " />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Check"
+        android:textSize="20sp"
+        android:id="@+id/submitBTN"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Done"
+        android:backgroundTint="@color/teal_700"
+        android:textSize="25sp"
+        android:id="@+id/doneBTN"
+        />
+
+</LinearLayout>
