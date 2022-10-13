@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
 
         submitBTN .setOnClickListener(new View.OnClickListener(){
             @Override public void onClick(View v) {
-                if (answerBox.getText().toString().equals("Barock Obama")){
+                if (answerBox.getText().toString().equals("Barack Obama")){
                     message = "GoodJob";
                     score = score + 1;
                 }
