@@ -12,7 +12,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Who was the first black president?"
+        android:text="@string/Q1"
         android:textSize="30sp"
         android:id="@+id/questionTV"
     />
@@ -22,21 +22,21 @@
         android:layout_width="match_parent"
         android:layout_height="115dp"
         android:textSize="25sp"
-        android:hint="type your answer here " />
+        android:hint="@string/hint" />
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Check"
+        android:text="@string/check"
         android:textSize="20sp"
         android:id="@+id/submitBTN"
         />
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Done"
+        android:text="@string/next"
         android:backgroundTint="@color/teal_700"
         android:textSize="25sp"
-        android:id="@+id/doneBTN"
+        android:id="@+id/nextBTN"
         />
 
 </LinearLayout>

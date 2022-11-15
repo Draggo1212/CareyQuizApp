@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Carey Quiz App</string>
+    <string name="Q1">Who was the first black president?</string>
+    <string name="hint">type your answer here</string>
+    <string name="check">Check</string>
+    <string name="next">Next</string>
+    <string name="Q1answer">Barack Obama</string>
+    <string name="Q2">Which president was the last to own slaves?</string>
+    <string name="Q2answer">Ulysses S. Grant</string>
+    <string name="Q3">What president lived the longest?</string>
+    <string name="Q3answer">Jimmy Carter</string>
+    <string name="Q4">Who was the first president to die in office?</string>
+    <string name="Q4answer">William Henry Harrison</string>
+    <string name="Q5">Which president survived an assassination attempt 69 days into his term?</string>
+    <string name="Q5answer">Ronald Reagan</string>
+    <string name="correct">GoodJob</string>
+    <string name="incorrect">You got it wrong</string>
 </resources>

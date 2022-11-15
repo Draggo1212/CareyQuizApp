@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Carey Quiz App</string>
+    <string name="Q1">最初の黒人大統領は誰ですか.</string>
+    <string name="hint">ここに答えを入力してください</string>
+    <string name="check">小切手</string>
+    <string name="next">次</string>
+    <string name="Q1answer">バラック・オバマ</string>
+    <string name="Q2">最後に奴隷を所有した大統領は?</string>
+    <string name="Q2answer">ユリシーズ・S・グラント</string>
+    <string name="Q3">最も長生きした大統領は？</string>
+    <string name="Q3answer">ジミー・カーター</string>
+    <string name="Q4">就任中に亡くなった最初の大統領は?</string>
+    <string name="Q4answer">ウィリアム・ヘンリー・ハリソン</string>
+    <string name="Q5">就任69日目に暗殺未遂を免れた大統領は?</string>
+    <string name="Q5answer">ロナルド・レーガン</string>
+    <string name="correct">よくできた</string>
+    <string name="incorrect">間違えている</string>
+</resources>
